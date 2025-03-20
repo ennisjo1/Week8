@@ -48,3 +48,7 @@ h1 strong {
 img.about {
     opacity: 0.5;
 }
+table{
+    background-color: #1f1e1f;
+    margin: auto;
+}
